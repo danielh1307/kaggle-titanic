@@ -1,0 +1,5 @@
+name: kaggle-titanic-env
+
+dependencies:
+  - numpy
+  - pandas
