@@ -3,3 +3,5 @@ name: kaggle-titanic-env
 dependencies:
   - numpy
   - pandas
+  - matplotlib
+  - scikit-learn
