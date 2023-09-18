@@ -1,5 +1,10 @@
 name: kaggle-titanic-env
 
+channels:
+  - pytorch
+  - nvidia
+  - defaults
+
 dependencies:
   - numpy
   - pandas
@@ -8,3 +13,4 @@ dependencies:
   - seaborn
   - pytorch
   - torchvision
+  - pytorch-cuda
